@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         }
         return super.onContextItemSelected(item);
     }
-    
+
     //Passar o menu para activity
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
